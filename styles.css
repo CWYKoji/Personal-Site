@@ -1,0 +1,79 @@
+body{
+    background-image: linear-gradient(to right,#34cceb, #3495eb);
+    color: white;
+    
+}
+
+footer{
+    text-align: center;
+    
+}
+
+h1{
+    
+    font-family: 'Courgette', cursive;
+    padding-top: 50px;
+    text-align: center;
+
+   
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+
+td{
+    border: 1px solid;
+    font-family: 'Courgette', cursive;
+    
+}
+
+p{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
+
+th{
+    border: 1px solid;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    
+}
+
+
+
+#bio{
+    
+    left: 700px;
+    padding-bottom: 75px;
+
+}
+
+
+
+#educationContainer{
+    padding-bottom: 75px;
+}
+
+#hobbiesInterests{
+    padding-bottom: 75px;
+
+}
+
+
+#profilePic{
+    left: 625px;
+    
+    position: relative;
+    width: 256px;
+    
+}
+
+#workContainer{
+    padding-bottom: 75px;
+}
+
