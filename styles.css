@@ -46,6 +46,7 @@ th{
 
 
 
+
 #bio{
     
     left: 700px;
@@ -53,7 +54,14 @@ th{
 
 }
 
-
+#carouselExampleCaptions .carousel-item img {  
+    object-fit: contain;
+    object-position: center;
+    overflow: hidden;
+    height:50vh;
+    
+  
+}
 
 #educationContainer{
     padding-bottom: 75px;
@@ -77,3 +85,18 @@ th{
     padding-bottom: 75px;
 }
 
+.child {
+    display: inline-block;
+    padding: 2rem 2rem;
+    vertical-align: middle;
+    width: 490px;
+    height: 300px;
+}
+  
+  
+.parent {
+   
+    
+    padding: 4rem 4rem;
+    text-align: center;
+}
