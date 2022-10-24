@@ -63,6 +63,24 @@ th{
   
 }
 
+#carouselExampleCaptions2 .carousel-item img {  
+    object-fit: contain;
+    object-position: center;
+    overflow: hidden;
+    height:50vh;
+    
+  
+}
+
+#carouselExampleCaptions3 .carousel-item img {  
+    object-fit: contain;
+    object-position: center;
+    overflow: hidden;
+    height:50vh;
+    
+  
+}
+
 #educationContainer{
     padding-bottom: 75px;
 }
