@@ -36,6 +36,7 @@ td{
 p{
     font-family: 'Courgette', cursive;
     text-align: center;
+    color: white;
 }
 
 th{
@@ -92,8 +93,10 @@ th{
 }
 
 
+
 #profilePic{
-    left: 625px;
+    display: flex;
+    margin: auto;
     
     position: relative;
     width: 256px;
@@ -102,9 +105,11 @@ th{
 
 #workContainer{
     padding-bottom: 75px;
+    padding-top: 75px;
 }
 
 .child {
+    
     display: inline-block;
     padding: 2rem 2rem;
     vertical-align: middle;
@@ -113,6 +118,10 @@ th{
 }
   
   
+.introLine{
+    padding-top: 75px;
+}
+
 .parent {
    
     
