@@ -116,11 +116,26 @@ th{
     width: 490px;
     height: 300px;
 }
+
+.caraTitle{
+    color: white;
+
+  }
   
-  
+
+
+ .indexTitle{
+
+    color: white;
+ }
+ 
+ 
+
 .introLine{
     padding-top: 75px;
+    color: white;
 }
+
 
 .parent {
    
